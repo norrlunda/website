@@ -1,0 +1,84 @@
+  [
+    {
+        "scaffold":
+        {
+            "parts":[
+                {
+                    "number":"10001",
+                    "name":"Allround Stålram 2,0 x 0,73 m",
+                    "count":16
+                },
+                {
+                    "number":"10002",
+                    "name":"Allround Plattform 3,0 m",
+                    "count":12
+                },
+                {
+                    "number":"10003",
+                    "name":"Allround Diagonalstag 2,0 x 3,0 m",
+                    "count":8
+                },
+                {
+                    "number":"10004",
+                    "name":"Justerbar Fotplatta 600 mm",
+                    "count":16
+                },
+                {
+                    "number":"10005",
+                    "name":"Räcke horisontellt 3,0 m",
+                    "count":24
+                },
+                {
+                    "number":"10006",
+                    "name":"Skyddsräcke 1,0 x 3,0 m",
+                    "count":16
+                },
+                {
+                    "number":"10007",
+                    "name":"Trapptorn 2,0 m",
+                    "count":1
+                },
+                {
+                    "number":"10008",
+                    "name":"Väggfäste 300 mm",
+                    "count":12
+                },
+                {
+                    "number":"10009",
+                    "name":"Plattform med lucka 3,0 m",
+                    "count":4
+                },
+                {
+                    "number":"10010",
+                    "name":"Ankare 300 mm",
+                    "count":16
+                },
+                {
+                    "number":"10011",
+                    "name":"Hjul 200 mm",
+                    "count":8
+                },
+                {
+                    "number":"10012",
+                    "name":"Presenning 12 x 4 m",
+                    "count":2
+                },
+                {
+                    "number":"10013",
+                    "name":"Skyddsnät 12 x 4 m",
+                    "count":2
+                },
+                {
+                    "number":"10014",
+                    "name":"Kopplingsklämma",
+                    "count":48
+                },
+                {
+                    "number":"10015",
+                    "name":"Väggankare 500 mm",
+                    "count":16
+                }
+            ]
+        }
+    }
+]
