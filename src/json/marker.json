@@ -1,76 +1,91 @@
 [
     {
+        "number": 10001,
         "name": "Byggkraft AB",
         "lat": 59.331135,
         "lng": 18.042297
     },
     {
+        "number": 10002,
         "name": "Sten och Väg Entreprenad",
         "lat": 59.334591,
         "lng": 18.070843
     },
     {
+        "number": 10003,
         "name": "Toppnivå Bygg & Renovering",
         "lat": 59.402390,
         "lng": 17.946849
     },
     {
+        "number": 10004,
         "name": "Flexibla Huslösningar",
         "lat": 59.357005,
         "lng": 18.098469
     },
     {
+        "number": 10005,
         "name": "Nordic Mark & Anläggning",
         "lat": 59.299801,
         "lng": 18.084507,
         "popup": "Hi there"
     },
     {
+        "number": 10006,
         "name": "Solstad Projektledning",
         "lat": 59.246567,
         "lng": 18.109281
     },
     {
+        "number": 10007,
         "name": "Snabbfix Entreprenad AB",
         "lat": 59.238080,
         "lng": 17.981741
     },
     {
+        "number": 10008,
         "name": "Framtidsbyggare Sverige",
         "lat": 59.407505,
         "lng": 18.051338
     },
     {
+        "number": 10009,
         "name": "Skandinavisk Byggdesign",
         "lat": 59.422789,
         "lng": 17.833781
     },
     {
+        "number": 10010,
         "name": "Nordic Mark & Anläggning",
         "lat": 59.305722,
         "lng": 18.171925
     },
     {
+        "number": 10011,
         "name": "Göteborgs Byggservice",
         "lat": 57.656829,
         "lng": 12.139272
     },
     {
+        "number": 10012,
         "name": "Västkustens Entreprenad",
         "lat": 57.671526,
         "lng": 11.861947
     },
     {
+        "number": 10013,
         "name": "Stora Holm Bygg",
         "lat": 57.720750,
         "lng": 11.940330
     },
     {
+        "number": 10014,
         "name": "Hisingens Mark & Bygg",
         "lat": 57.754455,
         "lng": 11.826251
     },
     {
+        "number": 10015,
         "name": "Gamlestaden Entreprenad",
         "lat": 57.723670,
         "lng": 12.001270
